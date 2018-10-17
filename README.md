@@ -1,6 +1,6 @@
 # Marcus Brock
 ## CT-406-HW4-Razor
-###The fourth homework assignment for CT-406
+### The fourth homework assignment for CT-406
 
 This assignment focused on creating an ASP.NET CORE website that locally hosted a movie database. The main point of the assignment was to 
 do this with the **Razor views** rather than the usual MVC setup.
